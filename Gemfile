@@ -1,2 +1,3 @@
 source "https://rubygems.org"
-gemspec
+gemspe
+gem 'jekyll-theme-hydeout', '~> 4.2'c
